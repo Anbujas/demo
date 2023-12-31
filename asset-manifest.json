@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Anbujas/demo.git/static/css/main.3a3ebe84.css",
+    "main.js": "/Anbujas/demo.git/static/js/main.9ec18247.js",
+    "static/media/img2.jpg": "/Anbujas/demo.git/static/media/img2.385026bdd6175a565891.jpg",
+    "static/media/about.jpg": "/Anbujas/demo.git/static/media/about.17314b478c0c9f05f9fe.jpg",
+    "static/media/staff.jpg": "/Anbujas/demo.git/static/media/staff.d2a3679583cae55ee3ae.jpg",
+    "static/media/img3.jpg": "/Anbujas/demo.git/static/media/img3.f42f202a375f0910beb4.jpg",
+    "static/media/img1.jpg": "/Anbujas/demo.git/static/media/img1.a0a4741536533e3a845a.jpg",
+    "static/media/webapp.jpg": "/Anbujas/demo.git/static/media/webapp.104441a073d543878442.jpg",
+    "static/media/mobileapp.jpg": "/Anbujas/demo.git/static/media/mobileapp.be5dea5407c728be7cab.jpg",
+    "index.html": "/Anbujas/demo.git/index.html",
+    "main.3a3ebe84.css.map": "/Anbujas/demo.git/static/css/main.3a3ebe84.css.map",
+    "main.9ec18247.js.map": "/Anbujas/demo.git/static/js/main.9ec18247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a3ebe84.css",
+    "static/js/main.9ec18247.js"
+  ]
+}
